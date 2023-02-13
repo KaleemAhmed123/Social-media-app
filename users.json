@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "63a9b06301a006e78a2d3ec5"
+  },
+  "username": "shaam idrees",
+  "email": "shaamidrees@gmail.com",
+  "password": "$2b$10$EFEVRDasLuy4q/zJs5RbCuORg2xY/wp.T6wLB0OEdrd3GOn1RnbaC",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672065123661"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672065123661"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9b06301a006e78a2d3ec7"
+  },
+  "username": "shaam idreez",
+  "email": "shaamidreez@gmail.com",
+  "password": "$2b$10$EFEVRDasLuy4q/zJs5RbCuORg2xY/wp.T6wLB0OEdrd3GOn1RnbaC",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672065123661"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672065123661"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a9b41da18d530f3445d97b"
+  },
+  "username": "kaleem khan",
+  "email": "shaa@gmail.com",
+  "password": "$2b$10$THGAsv1jPRJsLh9Q/1Vbt.4RsLdVklLEhEpyXpBEN5XSxKSet/Xb2",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [
+    "63a9b06301a006e78a2d3ec7",
+    "63a9b06301a006e78a2d3ec5"
+  ],
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672066077343"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672066077343"
+    }
+  },
+  "__v": 0
+}]
